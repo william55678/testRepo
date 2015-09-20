@@ -1,0 +1,2 @@
+This is a test file for me to try out vim.
+I am also going to add this to a git repo.
